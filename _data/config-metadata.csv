@@ -8,7 +8,6 @@ location,Location
 available, available,, true
 longitude,Longitude
 identifier,Source Identifier,,
-format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 extent, Size,, true
