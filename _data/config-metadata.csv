@@ -7,7 +7,6 @@ subject,Subjects,true
 location,Location
 available, available,, true
 longitude,Longitude
-identifier,Source Identifier,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 extent, Size,, true
