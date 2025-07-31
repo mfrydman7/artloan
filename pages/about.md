@@ -8,14 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+## About the Campus Art Lending Program 
 
-## About CollectionBuilder-Sheets
+The Campus Art Lending Program makes artwork from our various art loan collections available for display on campus, so that locations across campus can act as galleries of a campus-wide museum. 
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
-
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+The Circulating Art Loan Collection featured here consists of artworks that have been designated by Special Collections as more suitable for display than for teaching and research. These may be works that were previously accessioned into the permanent collection, but which since have been reevaluated because of condition, lack of use, or relevance to the liberal arts curriculum. They may be gifts that were never accessioned into the permanent collection, and indeed they may be works that were donated or purchased with an expressed interest in having them displayed rather than stored.  
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
