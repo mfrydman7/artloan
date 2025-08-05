@@ -2,6 +2,8 @@ field,display_name
 title,Title
 date,Date
 description,Description
+color, Color
+medium, Medium
 subject,Subjects
 extent, Size
 available, Available

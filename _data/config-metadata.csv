@@ -5,8 +5,13 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-available, available,, true
 longitude,Longitude
 rights,Rights,
 rightsstatement,Rights Statement,,true
 extent, Size,, true
+color, Black and White or Color,, true
+medium, Medium,, true
+frame status, Already framed?,, true
+mat status, Already matted?,, true
+available, Available,, true
+
