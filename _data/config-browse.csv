@@ -2,6 +2,6 @@ field,display_name,btn,hidden,sort_name
 creator,,,,Creator
 subject,,true
 location,,true
-available, available,,,Available
+extent,size
 color, black & white or color,,,black & white or color
 medium,Medium,,,medium
