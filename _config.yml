@@ -44,7 +44,7 @@ metadata-csv: 'artloan-metadata2.csv'
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 organization-name: "Bryn Mawr College Special Collections"
 organization-link: https://www.brynmawr.edu/inside/offices-services/library-information-technology-services/libraries-collections/special-collections
-organization-logo-banner: https://dyzz9obi78pm5.cloudfront.net/app/image/id/67fe95fd92bee04f1e030863/n/bryn-mawr-logo-left-aligned-with-padding.png
+organization-logo-banner: /objects/Special Collections-2line.png
 organization-logo-nav: https://dyzz9obi78pm5.cloudfront.net/app/image/id/674f280c19beadd3b208268d/n/bryn-mawr-logo-left-aligned-reverse-2-color-web.png
 
 ##########
