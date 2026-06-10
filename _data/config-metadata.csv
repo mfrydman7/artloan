@@ -1,17 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+creator,Creator,true
+medium, Medium,true,true
+date,Date Created,,,
 subject,Subjects,true
 location,Location
 longitude,Longitude
 rights,Rights,
 rightsstatement,Rights Statement,,true
-extent, Size,, true
-color, Black and White or Color,, true
-medium, Medium,, true
-frame status, Already framed?,, true
+size,Size,,,
+color, Colorful?,true,true
+dominant color,Dominant color,true,true
+frame status, Already framed?,true,true
 mat status, Already matted?,, true
 available, Available,, true
-
+description,Description,
+extent,Dimensions,,,

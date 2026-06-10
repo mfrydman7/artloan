@@ -1,8 +1,9 @@
-field,display_name,btn,hidden,sort_name
-creator,,,,Creator
-subject,,true
+field,display_name,btn,hidden,sort_name,
+creator,,,,creator,
 location,,true
-extent,size
-color, black & white or color,,,black & white or color
-medium,Medium,,,medium
-frame status,Framed,true,,Framed
+size,size,true,,true
+frame status,framed,true,,Framed
+color,colorful?,true,true,Colorful?
+dominant color,dominant color,true,,Dominant color
+medium,medium,,,medium
+subject,,true,,,
