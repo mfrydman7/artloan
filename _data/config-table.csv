@@ -1,9 +1,11 @@
 field,display_name
 title,Title
 date,Date
+frame status, Framed
 description,Description
-color, Color
+color, Colorful?
+dominant color,Dominant color
 medium, Medium
 subject,Subjects
-extent, Size
+size, Size
 available, Available
