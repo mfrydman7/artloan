@@ -1,9 +1,9 @@
 field,display_name,btn,hidden,sort_name,
-creator,,,,creator,
+creator,,,,Creator,
 location,,true
-size,size,true,,true
+size,size,true,,Size
 frame status,framed,true,,Framed
 color,colorful?,true,true,
 dominant color,dominant color,true,,Dominant color
-medium,medium,,,medium
+medium,medium,,,Medium
 subject,,true,,,
